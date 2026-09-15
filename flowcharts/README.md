@@ -1,28 +1,33 @@
-\# Exercise 1
+ Exercise 1
 
 
 
-\### Pseudocode
+Pseudocode
 
-```text
 
-Begin
 
-&#x20;   Input Length in Feet (LFT)
+   Input Length in Feet (LFT)
 
-&#x20;   Calculate Length in cm (LCM) = LFT \* 30
+   Calculate Length in cm (LCM) = LFT \* 30
 
-&#x20;   Output Length in cm (LCM)
+   Output Length in cm (LCM)
 
 End
 
 ```
 
 
+ Exercise 2
 
-\### Flowchart
+Pseudocode
 
-!\[Exercise 1 Flowchart](flowcharts/ejercicio1.png)
+Input Width (W) and Length (L) of a rectangle
+  
+  Calculate Area (A) = W * L
+
+    Output Area (A)
+
+End
 
 
 
