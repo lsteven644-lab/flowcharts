@@ -37,11 +37,17 @@ Pseudocode
 Star
 
 Input (a) (b) (c)
+
 if A>B>C
-Output A 
+
+Output A
+ 
 Else B>A>C
-Output B 
-Else 
+
+Output B
+ 
+Else
+ 
 Output C
 
 End
