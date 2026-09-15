@@ -14,8 +14,6 @@ Pseudocode
 
 End
 
-```
-
 
  Exercise 2
 
@@ -26,6 +24,25 @@ Input Width (W) and Length (L) of a rectangle
   Calculate Area (A) = W * L
 
     Output Area (A)
+
+End
+
+
+
+
+Exercise 3
+
+Pseudocode
+
+Star
+
+Input (a) (b) (c)
+if A>B>C
+Output A 
+Else B>A>C
+Output B 
+Else 
+Output C
 
 End
 
