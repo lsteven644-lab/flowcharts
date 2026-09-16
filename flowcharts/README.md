@@ -54,3 +54,13 @@ End
 
 
 
+EXERCISE 4
+
+START
+ Input three numbers (A, B, C)
+ If (A + B > C) AND (A + C > B) AND (B + C > A) Then
+ Output "It is a triangle"
+ Else
+ Output "It is not a triangle"
+ EndIf
+ End
